@@ -1,3 +1,4 @@
+// Please see LICENSE file for license details
 #include "include/raylib.h"
 #include "include/raymath.h"
 #define RAYGUI_IMPLEMENTATION
